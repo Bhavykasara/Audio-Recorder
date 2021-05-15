@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://th.bing.com/th/id/Ra1e8090b82438e8398375f791543fa1d?rik=nF954yOu7fSvUA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fke5GFrZ.jpg&ehk=d4y2zX4brfZm6t4e8zMQ6NkA1IPyLpIfbQE1FhG9vFM%3d&risl=&pid=ImgRaw");
+}
+
+#heading {
+    color:white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
+
+#info {
+    color: white;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+}
+
+#header {
+    color: white;
+    height: 1px;
+}
+
+#audio_wav {
+    height: 55%;
+    border-radius: 40%;
+    margin-top: 1%;
+}
+
+#start {
+    margin-right: 50%;
+}
+
+#collection {
+    color: white;
+}
